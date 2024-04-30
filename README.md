@@ -3,7 +3,7 @@
 
 Lab 2: Understand the use of fork(), execvp(). Insert a single line for MINIX .
 
-Lab 3: Easy lab prepare https://minixnitc.github.io/scheduling.html , http://www.minix3.org/docs/scheduling/report.pdf for viva.
+Lab 3: Only prepare https://minixnitc.github.io/scheduling.html , http://www.minix3.org/docs/scheduling/report.pdf for viva.
 
 Lab 4: Implementation of SJF and SRTF schedulers in C++.
 
