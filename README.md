@@ -19,5 +19,5 @@ Lab 8: Implementation of Page replacement algorithms.
 Lab 9: MINIX creation, modification and deletion of files in the file system. Understand the difference between MFS and VFS read the pdfs provided in the Assignment9 and Understanding MINIX folder to answer VIVA questions.
 
 Lab 10: immediate files in Minix. The source code is provided in the `minixnitc-website.pdf` file to understand immidiate files and algorithm of implementation.
-
+##### Course Grade for CS314 AA
 
